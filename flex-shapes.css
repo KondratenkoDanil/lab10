@@ -1,0 +1,37 @@
+.blue{
+    background-color: lightskyblue;
+    width: 100%;
+    height: 200px;
+}
+
+.grey {
+    width: 20%;
+    height: 700px;
+    background-color: gray;
+}
+
+.cyan{
+    width: 50%;
+    height: 200px;
+    background-color: turquoise;
+}
+.red{
+    width: 50%;
+    height: 200px;
+    background-color: lightcoral;
+}
+.yellow{
+    height: 500px;
+    width: 30%;
+    background-color: orange;
+}
+.green{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+}
+.brown{
+    width: 100%;
+    height: 290px;
+    background-color: brown;
+}
